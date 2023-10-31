@@ -5,5 +5,6 @@
 </p>
 <a href = 'https://www.linkedin.com/in/mariaeduardaoliveira-wk/'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'></img></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dssduda&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
