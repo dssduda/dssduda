@@ -1,6 +1,9 @@
-### <h1> Hi, I'm Maria Eduarda! 😺 </h1>
+### <h1> Olá, meu nome é Maria Eduarda! 😺 </h1>
 <ul>
   <li>
-    👩‍💻 Front-end Developer in process
+    🎓 Estudante de Ciência da Computação na Universidade Paulista
+  </li>
+  <li>
+    👩‍💻 Desenvolvedora Front-End em andamento!
   </li>
 </ul>
