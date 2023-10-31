@@ -6,5 +6,7 @@
 <a href = 'https://www.linkedin.com/in/mariaeduardaoliveira-wk/'><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'></img></a>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dssduda&theme=rose&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dssduda&theme=date_night&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dssduda&theme=date_night)
 
